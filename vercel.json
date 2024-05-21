@@ -1,0 +1,6 @@
+{
+  "public": "./HTML",
+  "rewrites": [
+    { "source": "/", "destination": "/Index.html" }
+  ]
+}
